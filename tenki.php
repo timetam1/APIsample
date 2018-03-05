@@ -1,3 +1,4 @@
+//ライブドア天気予報のAPIを取得します
 <?php
 //秩父の気温情報アプリ
 $a = "http://weather.livedoor.com/forecast/webservice/json/v1?city=110030";
