@@ -1,3 +1,4 @@
+//カンマ区切りで入力した数値を３倍にする
 <?php
 $a = explode(",",$_POST["name"]);
 $b = count($a);
